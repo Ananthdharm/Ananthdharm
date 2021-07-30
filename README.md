@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ananth!
 - 👀 I’m interested in Product Management
-- 🌱 I’m currently pursuing my Information Science and Engineering at BMS Institute of Technology and Management
+- 🌱 I’m currently pursuing Information Science and Engineering at BMS Institute of Technology and Management
 - 📫 You can reach out to me via:
 
      ✉️ ananth.dharm@gmail.com
