@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing Information Science and Engineering at BMS Institute of Technology and Management
 - 📫 You can reach out to me via:
 
-     ✉️ ananth.dharm@gmail.com
+     ✉️ ananth.dharm@gmail.com<br>
      📞 +91 9980561142
 
 <!---
