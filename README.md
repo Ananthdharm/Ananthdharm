@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ananth!
 - 👀 I’m interested in <i>Product Management</i>
-- 🌱 I’m currently pursuing Information Science and Engineering at BMS Institute of Technology and Management
+- 🌱 I’ve graduated with a BE degree in Information Science and Engineering from BMS Institute of Technology and Management, Bangalore
 - 📫 You can reach out to me via:<br>
      ✉️ ananth.dharm@gmail.com<br>
      📞 +91 9980561142
